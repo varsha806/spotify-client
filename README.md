@@ -1,0 +1,1 @@
+i had attached many components in that i had kept audioplayer,button,inputs,like,navbar,playlist,playlistmenu,song etc and also it is connected with the firebase database to store the data and also added some images etc added some home page,library,profile,liked songs,signup and login page etc
